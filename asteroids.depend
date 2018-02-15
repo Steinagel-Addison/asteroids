@@ -1,0 +1,125 @@
+# depslib dependency file v1.0
+1512431301 source:c:\users\stormblade\desktop\asteroids\bullet.cpp
+	"flyingObject.h"
+	"bullet.h"
+	<iostream>
+	<cmath>
+
+1512431299 c:\users\stormblade\desktop\asteroids\flyingobject.h
+	"point.h"
+	"velocity.h"
+	"uiDraw.h"
+
+1512431298 c:\users\stormblade\desktop\asteroids\point.h
+	<iostream>
+
+1512431295 c:\users\stormblade\desktop\asteroids\velocity.h
+
+1512431296 c:\users\stormblade\desktop\asteroids\uidraw.h
+	<string>
+	<cmath>
+	"point.h"
+
+1512431301 c:\users\stormblade\desktop\asteroids\bullet.h
+	"flyingObject.h"
+
+1512431300 source:c:\users\stormblade\desktop\asteroids\driver.cpp
+	"game.h"
+	"uiInteract.h"
+
+1512431299 c:\users\stormblade\desktop\asteroids\game.h
+	<vector>
+	"uiDraw.h"
+	"uiInteract.h"
+	"point.h"
+	"velocity.h"
+	"ship.h"
+	"flyingObject.h"
+	"rocks.h"
+	"bullet.h"
+
+1512431295 c:\users\stormblade\desktop\asteroids\uiinteract.h
+	"point.h"
+
+1512431297 c:\users\stormblade\desktop\asteroids\ship.h
+	"point.h"
+	"velocity.h"
+	"bullet.h"
+
+1512431297 c:\users\stormblade\desktop\asteroids\rocks.h
+	"flyingObject.h"
+
+1512431300 source:c:\users\stormblade\desktop\asteroids\flyingobject.cpp
+	"flyingObject.h"
+	"point.h"
+	"velocity.h"
+	"uiDraw.h"
+	<iostream>
+
+1512431299 source:c:\users\stormblade\desktop\asteroids\game.cpp
+	"game.h"
+	"uiDraw.h"
+	"uiInteract.h"
+	"point.h"
+	<limits>
+	<algorithm>
+	<vector>
+	<iostream>
+
+1512431298 source:c:\users\stormblade\desktop\asteroids\point.cpp
+	"point.h"
+	<cassert>
+
+1512431297 source:c:\users\stormblade\desktop\asteroids\rocks.cpp
+	"flyingObject.h"
+	"rocks.h"
+	<iostream>
+
+1512431297 source:c:\users\stormblade\desktop\asteroids\ship.cpp
+	"ship.h"
+	"point.h"
+	"uiDraw.h"
+	<iostream>
+
+1512431296 source:c:\users\stormblade\desktop\asteroids\uidraw.cpp
+	<string>
+	<sstream>
+	<cassert>
+	<time.h>
+	<openGL/gl.h>
+	<GLUT/glut.h>
+	<GL/gl.h>
+	<GL/glut.h>
+	<stdio.h>
+	<stdlib.h>
+	<GL/glut.h>
+	<math.h>
+	"point.h"
+	"uiDraw.h"
+
+1512431295 source:c:\users\stormblade\desktop\asteroids\uiinteract.cpp
+	<string>
+	<sstream>
+	<cassert>
+	<time.h>
+	<cstdlib>
+	<openGL/gl.h>
+	<GLUT/glut.h>
+	<GL/gl.h>
+	<GL/glut.h>
+	<stdio.h>
+	<stdlib.h>
+	<Gl/glut.h>
+	<ctime>
+	<Windows.h>
+	<math.h>
+	"uiInteract.h"
+	"point.h"
+
+1512431295 source:c:\users\stormblade\desktop\asteroids\velocity.cpp
+	"velocity.h"
+	<iostream>
+
+1446667744 source:c:\users\stormblade\desktop\asteroids\main.cpp
+	<iostream>
+
